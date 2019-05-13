@@ -15,3 +15,9 @@ Technical Specifications:
 Coded on: Eclipse Neon Release 4.6.0
 Language: HTML/CSS/JavaScript, Java 8, SQL
 Database used: H2
+
+Installation: 
+1. Import the project in Eclipse.
+2. Add the JARs into your classpath.
+3. Apache Tomcat (>7) is preferable.
+4. Run the project.
