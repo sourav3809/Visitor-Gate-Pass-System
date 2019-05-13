@@ -12,9 +12,9 @@ Features:
 The required JARs are present in the lib folder. H2 has been used as a lightweight test environment.
 
 Technical Specifications:
-Coded on: Eclipse Neon Release 4.6.0
-Language: HTML/CSS/JavaScript, Java 8, SQL
-Database used: H2
+1. Coded on: Eclipse Neon Release 4.6.0
+2. Language: HTML/CSS/JavaScript, Java 8, SQL
+3. Database used: H2
 
 Installation: 
 1. Import the project in Eclipse.
